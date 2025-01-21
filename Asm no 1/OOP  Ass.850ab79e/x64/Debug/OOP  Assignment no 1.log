@@ -1,0 +1,7 @@
+﻿  BSAI24017_Asm-01.cpp
+C:\Users\kc\source\repos\OOP  Assignment no 1\BSAI24017_Asm-01.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kc\source\repos\OOP  Assignment no 1\BSAI24017_Asm-01.cpp(92,1): warning C4715: 'FirstOcurrance': not all control paths return a value
+C:\Users\kc\source\repos\OOP  Assignment no 1\BSAI24017_Asm-01.cpp(100,1): warning C4715: 'LastOcurrance': not all control paths return a value
+C:\Users\kc\source\repos\OOP  Assignment no 1\BSAI24017_Asm-01.cpp(113,1): warning C4715: 'KthOccurance': not all control paths return a value
+C:\Users\kc\source\repos\OOP  Assignment no 1\BSAI24017_Asm-01.cpp(164,1): warning C4715: 'Binarysearch': not all control paths return a value
+  OOP  Assignment no 1.vcxproj -> C:\Users\kc\source\repos\OOP  Assignment no 1\x64\Debug\OOP  Assignment no 1.exe
